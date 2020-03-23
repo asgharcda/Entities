@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Entities.Entities
 {
-   public class MainStructure
+    public class MainStructure
     {
         public int MainStructureID { get; set; }
         public int? HeaderID { get; set; }
